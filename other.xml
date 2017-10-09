@@ -1,0 +1,59 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/8.6.0/bin/node">
+      <version-cache version="8.6.0" last-modified="1506589767000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.5.0/bin/node">
+      <version-cache version="8.5.0" last-modified="1506424112000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.4.0/bin/node">
+      <version-cache version="8.4.0" last-modified="1503469487000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.2.1/bin/node">
+      <version-cache version="8.2.1" last-modified="1501589977000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.2.1" last-modified="1500587377000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="5.6.0" last-modified="1455034572000" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://jira.lenslogistics.int">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df8bdfeddfd9dfd2dfd8df9ddf9fdf97df88df98</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.2.3" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>joaboi</username>
+    </JIRA>
+  </component>
+</application>

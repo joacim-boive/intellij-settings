@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="lib.d.ts" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/lib.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="nightwatchjs" type="javaScript">
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://nightwatchjs.org/api" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

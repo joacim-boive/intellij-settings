@@ -1,0 +1,11 @@
+<code_scheme name="Default (2)">
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JSP">
+    <option name="RIGHT_MARGIN" value="600" />
+  </codeStyleSettings>
+</code_scheme>

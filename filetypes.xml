@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Header" type="JSX Harmony" />
+      <mapping pattern="Dropdown" type="JavaScript" />
+      <mapping pattern="ReactTable" type="JavaScript" />
+      <mapping ext="mp4" type="Native" />
+      <mapping pattern="Summary" type="PLAIN_TEXT" />
+      <mapping pattern="reacdatet" type="PLAIN_TEXT" />
+      <mapping pattern="BruschChart" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
